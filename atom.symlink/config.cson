@@ -1,0 +1,13 @@
+"*":
+  core:
+    telemetryConsent: "no"
+    themes: [
+      "one-dark-ui"
+      "solarized-dark-syntax"
+    ]
+  editor:
+    softTabs: true
+    tabType: "soft"
+    tabLength: 4
+  "exception-reporting":
+    userId: "dca51466-f135-456d-8972-ce2cf1bdd03a"
