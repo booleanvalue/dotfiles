@@ -1,4 +1,9 @@
-# holman does dotfiles
+# ~~holman~~ booleanvalue does dotfiles
+
+This is a fork of @holman's dotfiles—which I will turn into *my* dotfiles repo with limited and meagre requirements, and having expunged most of his great work.
+
+***
+## @holman's README:
 
 Your dotfiles are how you personalize your system. These are mine.
 
