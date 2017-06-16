@@ -1,0 +1,1 @@
+brew 'homebrew/php/composer'
