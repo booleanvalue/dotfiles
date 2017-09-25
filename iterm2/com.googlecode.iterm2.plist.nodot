@@ -1265,8 +1265,6 @@
 	<real>513907344.47013599</real>
 	<key>PasteTabToStringTabStopSize</key>
 	<integer>4</integer>
-	<key>PerformDNSLookups</key>
-	<false/>
 	<key>PointerActions</key>
 	<dict>
 		<key>Button,1,1,,</key>
