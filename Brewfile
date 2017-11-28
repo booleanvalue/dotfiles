@@ -1,6 +1,7 @@
 cask_args appdir: '/Applications'
 
 brew 'homebrew/php/composer'
+brew 'rbenv'
 
 cask 'atom'
 cask 'charles'
