@@ -7,7 +7,9 @@
     ]
   editor:
     softTabs: true
-    tabType: "soft"
     tabLength: 4
+    tabType: "soft"
   "exception-reporting":
     userId: "dca51466-f135-456d-8972-ce2cf1bdd03a"
+  welcome:
+    showOnStartup: false
