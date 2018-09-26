@@ -55,11 +55,11 @@
 		<integer>1</integer>
 	</dict>
 	<key>NSWindow Frame SharedPreferences</key>
-	<string>-1449 105 796 473 -1920 -30 1920 1057 </string>
+	<string>-1799 521 796 473 -1920 -30 1920 1057 </string>
 	<key>NSWindow Frame iTerm Window 0</key>
-	<string>-5 86 1440 731 0 0 1440 877 </string>
+	<string>25 210 585 452 0 0 1680 1027 </string>
 	<key>NSWindow Frame iTerm Window 1</key>
-	<string>-1407 385 1265 577 -1920 -30 1920 1057 </string>
+	<string>10 285 1360 552 0 0 1440 877 </string>
 	<key>NSWindow Frame iTerm Window 2</key>
 	<string>-1848 345 949 452 -1920 0 1920 1057 </string>
 	<key>New Bookmarks</key>
@@ -1259,6 +1259,10 @@
 	<true/>
 	<key>NoSyncInstallationId</key>
 	<string>90C72F6B-54A8-4624-B37E-2F4619E92EB2</string>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile</key>
+	<true/>
+	<key>NoSyncNeverRemindPrefsChangesLostForFile_selection</key>
+	<integer>0</integer>
 	<key>NoSyncPermissionToShowTip</key>
 	<false/>
 	<key>NoSyncTimeOfFirstLaunchOfVersionWithTip</key>
@@ -1299,7 +1303,7 @@
 		</dict>
 	</dict>
 	<key>PrefsCustomFolder</key>
-	<string>/Users/sparkin</string>
+	<string>/Users/sparkin/</string>
 	<key>SUEnableAutomaticChecks</key>
 	<true/>
 	<key>SUFeedAlternateAppNameKey</key>
@@ -1309,7 +1313,7 @@
 	<key>SUHasLaunchedBefore</key>
 	<true/>
 	<key>SULastCheckTime</key>
-	<date>2017-09-05T02:36:09Z</date>
+	<date>2017-09-18T23:01:06Z</date>
 	<key>SUSendProfileInfo</key>
 	<false/>
 	<key>TabStyle</key>
