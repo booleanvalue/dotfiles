@@ -4,6 +4,7 @@ brew 'homebrew/php/composer'
 brew 'rbenv'
 brew 'htop'
 brew 'nmap'
+brew 'ansible'
 
 cask 'atom'
 cask 'charles'
