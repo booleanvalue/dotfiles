@@ -5,6 +5,7 @@ brew 'rbenv'
 brew 'htop'
 brew 'nmap'
 brew 'ansible'
+brew 'wpscan'
 
 cask 'atom'
 cask 'charles'
