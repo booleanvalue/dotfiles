@@ -6,10 +6,13 @@
       "solarized-dark-syntax"
     ]
   editor:
+    fontSize: 15
     softTabs: true
     tabLength: 4
     tabType: "soft"
   "exception-reporting":
     userId: "dca51466-f135-456d-8972-ce2cf1bdd03a"
+  "tree-view":
+    hideVcsIgnoredFiles: true
   welcome:
     showOnStartup: false
