@@ -7,6 +7,7 @@ brew 'nmap'
 brew 'ansible'
 brew 'wpscan'
 brew 'terraform'
+brew 'openssl'
 
 cask 'atom'
 cask 'charles'
